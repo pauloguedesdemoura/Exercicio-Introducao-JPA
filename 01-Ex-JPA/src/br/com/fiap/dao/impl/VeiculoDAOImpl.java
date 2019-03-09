@@ -26,9 +26,9 @@ public class VeiculoDAOImpl implements VeiculoDAO {
 	public void deletar(int codigo) throws CodigoInvalidoException {
 		
 		Veiculo veic = busca(codigo);
-		if(veic == null)
+		if(veic == null) {
 		throw new CodigoInvalidoException();
-		
+		}
 		em.remove(veic);		
 	}
 
