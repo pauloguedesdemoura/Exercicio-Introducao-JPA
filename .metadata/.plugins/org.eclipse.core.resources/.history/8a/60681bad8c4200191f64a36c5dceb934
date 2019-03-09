@@ -1,0 +1,27 @@
+package br.com.fiap.entity;
+
+import java.util.Calendar;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+@Entity
+@Table(name="T_MOTORISTA")
+public class Motorista {
+
+	@Id
+	@Column(name="nr_carteira")
+	private int carteira;
+	
+	@Column(name="nm_motorista",nullable=false,length=150)
+	private String motorista;
+	
+	@Temporal(TemporalType.DATE)
+	@Column(name="dt_nascimento")
+	private Calendar nascimento;
+	
+}

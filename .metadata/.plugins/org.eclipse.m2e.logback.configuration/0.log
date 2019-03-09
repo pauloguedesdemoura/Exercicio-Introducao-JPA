@@ -1,0 +1,145 @@
+2019-03-09 12:52:09,150 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-09 13:24:42,484 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.fiap:04-JPA-DAO:0.0.1-SNAPSHOT @ C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\pom.xml.
+2019-03-09 13:24:45,530 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:24:45,533 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:24:45,536 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:24:45,537 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:24:45,560 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /01-Ex-JPA/src/main/java because it overlaps with /01-Ex-JPA/src
+2019-03-09 13:24:45,565 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /01-Ex-JPA/src/test/java because it overlaps with /01-Ex-JPA/src
+2019-03-09 13:24:47,439 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-09 13:24:48,986 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.fiap:04-JPA-DAO:0.0.1-SNAPSHOT @ C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\pom.xml.
+2019-03-09 13:24:50,241 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /01-Ex-JPA/src/main/java because it overlaps with /01-Ex-JPA/src
+2019-03-09 13:24:50,241 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /01-Ex-JPA/src/test/java because it overlaps with /01-Ex-JPA/src
+2019-03-09 13:24:50,500 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-03-09 13:24:50,719 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:24:50,720 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:24:50,721 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:24:50,722 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:32:03,953 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:32:03,969 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:32:03,969 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:32:03,969 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:42:00,743 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:42:00,743 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:42:00,743 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:42:00,759 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:49:34,719 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:49:34,719 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:49:34,719 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:49:34,719 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:50:21,298 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:50:21,298 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:50:21,298 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:50:21,313 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:53:33,360 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:53:33,376 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:53:33,376 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:53:33,376 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:54:38,508 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:54:38,508 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:54:38,508 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:54:38,508 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:58:52,907 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:58:52,907 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:58:52,907 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:58:52,907 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:59:14,907 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:59:14,907 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:59:14,907 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:59:14,907 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 13:59:17,993 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:59:17,993 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 13:59:17,993 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 13:59:17,993 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:00:36,832 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:00:36,832 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:00:36,832 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:00:36,832 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:02:39,882 [Worker-30] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:02:39,882 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:02:39,882 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:02:39,882 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:02:39,882 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:07:46,245 [Worker-30] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:07:46,245 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:07:46,245 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:07:46,245 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:07:46,245 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:08:34,024 [Worker-33] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:08:34,024 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:08:34,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:08:34,024 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:08:34,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:19:03,235 [Worker-32] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:19:03,235 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:03,251 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:19:03,251 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:03,251 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:19:14,095 [Worker-34] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:19:14,095 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:14,095 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:19:14,111 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:14,111 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:19:23,391 [Worker-33] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:19:23,391 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:23,391 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:19:23,391 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:19:23,407 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:22:01,747 [Worker-32] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:22:01,747 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:22:01,747 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:22:01,747 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:22:01,747 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:23:25,649 [Worker-29] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:23:25,664 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:23:25,664 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:23:25,664 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:23:25,664 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:24:18,868 [Worker-30] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:24:18,868 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:24:18,868 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:24:18,868 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:24:18,868 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:24:56,432 [Worker-34] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:24:56,432 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:24:56,432 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:24:56,432 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:24:56,432 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:25:09,601 [Worker-29] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:25:09,601 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:25:09,601 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:25:09,601 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:25:09,601 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:25:11,095 [Worker-32] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:25:11,095 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:25:11,110 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:25:11,110 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:25:11,110 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:26:02,269 [Worker-34] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:26:02,269 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:26:02,269 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:26:02,269 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:26:02,269 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:42:23,054 [Worker-40] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:42:23,054 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:42:23,054 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:42:23,054 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:42:23,054 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:57:23,117 [Worker-44] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:57:23,117 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:57:23,117 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:57:23,132 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:57:23,132 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 14:57:44,664 [Worker-40] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 14:57:44,664 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:57:44,679 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 14:57:44,679 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 14:57:44,679 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 15:01:04,237 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 15:01:04,252 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 15:01:04,252 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\main\resources
+2019-03-09 15:01:04,252 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-09 15:01:04,252 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\p-gue\Desktop\Exercicios tiago\01-Ex-JPA\src\test\resources
+2019-03-09 15:01:05,489 [Worker-41] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 15:01:06,830 [Worker-43] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-09 15:01:12,065 [Worker-47] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
